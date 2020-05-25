@@ -1,0 +1,45 @@
+.yellow, .yellow input {
+    color: #ffce2e;
+}
+
+.blue, .blue input {
+    color: #7ab1e8;
+}
+
+.pink, .pink input {
+    color: #f87089;
+}
+
+.green, .green input {
+    color: #308167;
+}
+
+.red, .red input {
+    color: red;
+}
+
+.white, .white input {
+    color: white;
+}
+
+.light-gray {
+    background-color: #e3ddd8;
+    border-color: #e3ddd8;
+}
+
+input[type="text"], input[type="number"] {
+    height: 20px;
+    background: #2e2d2d;
+    border: none;
+    width: 25px;
+    border: 1px solid #5d5c5c;
+}
+
+body {
+    color: #686c87;
+}
+
+iframe {
+    border: 1px solid gray
+}
+
